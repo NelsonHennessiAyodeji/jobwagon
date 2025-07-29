@@ -4,3 +4,4 @@ Used componenet from Shadcn to build navbar
 
 UNderstad
 Side bar will take up one column on the layounf in dashboard
+SHADCN Uses next themes
